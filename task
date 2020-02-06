@@ -1,0 +1,7 @@
+def weather
+    tenkis = ["晴れ", "曇り", "雨"]
+    tenkis.each do |teknki|
+        puts tenki
+    end
+end
+    
